@@ -1,0 +1,19 @@
+1) Write a Python program that accepts a hyphen separated sequence of words as input and prints the words in a hyphen-separated sequence after sorting them alphabetically. Go to the editor
+Sample Items : green-red-yellow-black-white
+Expected Result : black-green-red-white-yellow
+
+2)Write a Python program to get days between two dates. Go to the editor 
+Sample Dates : 2000,2,28, 2001,2,28
+Expected Output : 366 days, 0:00:00
+
+3)1Write a Python program for binary search. Go to the editor
+Binary Search : In computer science, a binary search or half-interval search algorithm finds the position of a target value within a sorted array. The binary search algorithm can be classified as a dichotomies divide-and-conquer search algorithm and executes in logarithmic time.
+Test Data :
+binary_search([1,2,3,5,8], 6) -> False
+binary_search([1,2,3,5,8], 5) -> True
+
+4)Write a Python program to calculate the value of 'a' to the power 'b'. Go to the editor
+Test Data : 
+(power(3,4) -> 81 
+
+5)Write a Python program to generate all sublists of a list
